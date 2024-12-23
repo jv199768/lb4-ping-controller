@@ -1,0 +1,2 @@
+    "docker:build": "docker build -t controller-example .",
+    "docker:run": "docker run -p 3000:3000 -d controller-example",
